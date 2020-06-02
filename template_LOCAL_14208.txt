@@ -3,15 +3,9 @@
 # Example:
 # [feat] Implement automated commit messages
 
-<<<<<<< HEAD
 # Cap nhat 2020
 # Cap nhat 2020
 
-||||||| merged common ancestors
-# Cap nhat 2020
-=======
-# xung dot 1 file
->>>>>>> bf59b76c7a81ce31769b7d7fabaf13552d179201
 # (Optional) Explain why this change is being made
 # |<----   Try To Limit Each Line to a Maximum Of 72 Characters   ---->|
 
